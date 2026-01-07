@@ -1,2 +1,3 @@
 data/
-Artifacts/
+logs/
+inventory.db
